@@ -1,0 +1,472 @@
+/*酷炫黑*/
+
+#coolBlack .topbar{
+	background:url(../images/topbar.png) 0 -80px repeat-x;
+}
+#coolBlack .subnav{
+	background:url(../images/topbar.png) 0 -230px repeat-x;
+}
+#coolBlack .top-logo{
+	background-position:0 0;
+}
+#coolBlack .top-nav ul li{
+	background:url(../images/topbar.png) -238px -302px no-repeat;
+}
+#coolBlack .top-nav ul li a{
+	color:#ccc;
+	text-shadow:0 1px 0 #1b1b1b;
+}
+#coolBlack .top-nav ul li:hover{
+	background:url(../images/topbar.png) 0 -470px no-repeat;
+}
+#coolBlack .top-nav ul li a:hover{
+	background:url(../images/topbar.png) right -470px no-repeat;
+}
+#coolBlack .top-nav ul li.active{
+	background:url(../images/topbar.png) 0 -155px no-repeat;
+}
+#coolBlack .top-nav ul li.active:after{
+	top:-7px;
+	background:url(../images/topbar.png) -226px 0 no-repeat;
+}
+#coolBlack .top-nav ul li.active a{
+	background:url(../images/topbar.png) right -155px no-repeat;
+}
+#coolBlack .top-nav ul li a span{
+	color:#fff;
+	background-position:0 -133px;
+}
+#coolBlack .top-search input{
+	color:#666;
+	background:url(../images/topbar.png) 0 -550px no-repeat;
+}
+#coolBlack .top-btn{
+	background:url(../images/topbar.png) -238px -329px no-repeat;
+}
+#coolBlack .top-tool span a{
+    color:#999;
+	text-shadow:0 1px 0 #1b1b1b;
+}
+#coolBlack .top-tool span a.down{
+	background:url(../images/topbar.png) right -374px no-repeat;
+}
+#coolBlack .top-tool span a.up{
+	background:url(../images/topbar.png) right -412px no-repeat;
+}
+#coolBlack .top-login span i{		
+	background-position:4px 3px;
+	background-color:#eaeaea;
+}
+#coolBlack .top-skin span i{	
+	background-position:3px -30px;
+	background-color:#eaeaea;
+}
+#coolBlack .top-mail span i{		
+	background-position:3px -63px;
+	background-color:#eaeaea;
+}
+#coolBlack .top-setting span i{		
+	background-position:3px -96px;
+	background-color:#eaeaea;
+}
+#coolBlack .top-login ul{
+    border-radius:3px;
+    border:1px solid #404040;
+    background:#2a2a2a;
+}
+#coolBlack .top-login ul:after{
+	background-position:-66px -133px;
+}
+#coolBlack .top-login ul li a{
+	color:#ccc;
+}
+#coolBlack .top-login ul li a.phone{background-position:20px 13px;}
+#coolBlack .top-login ul li a.wechat{background-position:20px -27px;}
+#coolBlack .top-login ul li a.qq{background-position:20px -68px;}
+#coolBlack .top-login ul li a.sina{background-position:20px -108px;}
+#coolBlack .top-login ul li a.wy{background-position:20px -148px;}
+#coolBlack .top-login ul li a.quit{background-position:20px -184px;}
+#coolBlack .top-login ul li a:hover{
+	background-color:#353535;
+}
+#coolBlack #leftArea dl dd.active{
+	border-left:2px #c62f2f solid;
+}
+#coolBlack #loginArea span{
+	background:#2d2d2d;
+	border-bottom:1px solid #191919;
+}
+#coolBlack #loginArea ul.login-main li .btn{
+	background-position:0 0;
+}
+#coolBlack #loginArea ul.login-main li .btn:hover{
+	background-position:0 -82px;
+}
+#coolBlack #loginArea ul.login-main li .btn:active{
+	background-position:0 -164px;
+}
+#coolBlack #footerArea{
+	background:url(../images/playbar.png) 0 0 repeat-x;
+}
+#coolBlack .botlock{
+	background:url(../images/playbar.png) 0 -380px no-repeat;
+}
+#coolBlack .botlock a{
+	left:16px;
+	background:url(../images/playbar.png) -80px -380px no-repeat;
+}
+#coolBlack .botlock a:hover{
+	background:url(../images/playbar.png) -80px -400px no-repeat;
+}
+#coolBlack .botlock a.lock{
+	background:url(../images/playbar.png) -100px -380px no-repeat;
+}
+#coolBlack .botlock a.lock:hover{
+	background:url(../images/playbar.png) -100px -400px no-repeat;
+}
+#coolBlack .player .btns a.prev{background:url(../images/playbar.png) 0 -130px no-repeat;}
+#coolBlack .player .btns a.prev:hover{background:url(../images/playbar.png) -30px -130px no-repeat;}
+#coolBlack .player .btns a.next{background:url(../images/playbar.png) -80px -130px no-repeat;}
+#coolBlack .player .btns a.next:hover{background:url(../images/playbar.png) -110px -130px no-repeat;}
+#coolBlack .player .btns a.play{background:url(../images/playbar.png) 0 -204px no-repeat;}
+#coolBlack .player .btns a.play:hover{background:url(../images/playbar.png) -40px -204px no-repeat;}
+#coolBlack .player .btns a.pause{background:url(../images/playbar.png) 0 -165px no-repeat;}
+#coolBlack .player .btns a.pause:hover{background:url(../images/playbar.png) -40px -165px no-repeat;}
+#coolBlack .player .album a{
+	background:url(../images/playbar.png) 0 -80px no-repeat;
+}
+#coolBlack .player .play .p-bar .time{
+    color:#797979;
+    text-shadow:0 1px 0 #121212;
+}
+#coolBlack .player .play .p-bar .time em{
+	color:#a1a1a1;
+}
+#coolBlack .player .play .words{
+    color:#e8e8e8;
+    text-shadow:0 1px 0 #171717;
+}
+#coolBlack .player .play .words a.title{
+	color:#e8e8e8;
+}
+#coolBlack .player .play .p-bar .barbg{
+	background:url(../images/statbar.png) right 0 no-repeat;
+}
+#coolBlack .player .play .p-bar .barbg .ready{
+	background:url(../images/statbar.png) right -30px no-repeat;
+}
+#coolBlack .player .play .p-bar .barbg .current{
+	background:url(../images/statbar.png) left -66px no-repeat;	
+}
+#coolBlack .player .tools a.like{background:url(../images/playbar.png) -88px -163px no-repeat;}
+#coolBlack .player .tools a.like:hover{background:url(../images/playbar.png) -88px -189px no-repeat;}
+#coolBlack .player .tools a.share{background:url(../images/playbar.png) -114px -163px no-repeat;}
+#coolBlack .player .tools a.share:hover{background:url(../images/playbar.png) -114px -189px no-repeat;}
+#coolBlack .player .ctrl{
+	background:url(../images/playbar.png) -149px -249px no-repeat;
+}
+#coolBlack .player .ctrl a.volume{background:url(../images/playbar.png) -2px -248px no-repeat;}
+#coolBlack .player .ctrl a.volume:hover{background:url(../images/playbar.png) -31px -248px no-repeat;}
+#coolBlack .player .ctrl a.volno{background:url(../images/playbar.png) -104px -69px no-repeat;}
+#coolBlack .player .ctrl a.volno:hover{background:url(../images/playbar.png) -126px -69px no-repeat;}
+#coolBlack .player .ctrl a.loop{background:url(../images/playbar.png) -3px -344px no-repeat;}
+#coolBlack .player .ctrl a.loop:hover{background:url(../images/playbar.png) -33px -344px no-repeat;}
+#coolBlack .player .ctrl a.shuffe{background:url(../images/playbar.png) -66px -248px no-repeat;}
+#coolBlack .player .ctrl a.shuffe:hover{background:url(../images/playbar.png) -93px -248px no-repeat;}
+#coolBlack .player .ctrl a.one{background:url(../images/playbar.png) -66px -344px no-repeat;}
+#coolBlack .player .ctrl a.one:hover{background:url(../images/playbar.png) -93px -344px no-repeat;}
+#coolBlack .player .ctrl a.list{background:url(../images/playbar.png) -42px -68px no-repeat;}
+#coolBlack .player .ctrl a.list:hover{background:url(../images/playbar.png) -42px -98px no-repeat;}
+#coolBlack .player .ctrl a.list{
+	color:#666;
+    text-shadow:0 1px 0 #080707;
+}
+#coolBlack .player .ctrl .volbar{
+	width:32px;
+	height:113px;
+	background:url(../images/playbar.png) 0 -503px no-repeat;
+}
+#coolBlack .player .ctrl .volbar .volcur{
+    background:url(../images/playbar.png) -40px bottom no-repeat;
+}
+#coolBlack .player .ctrl .modetips{
+	width:81px;
+	height:39px;
+	line-height:34px;
+	background:url(../images/playbar.png) 0 -457px no-repeat;
+}
+#coolBlack .dialogArea i:hover{
+	background:url(../images/top_ico_right.png) -44px -154px no-repeat;
+}
+#coolBlack .dialogArea i{
+	background:url(../images/top_ico_right.png) -26px -154px no-repeat;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*官方红*/
+#officialRed .topbar{
+	background:#c62f2f;
+}
+#officialRed .subnav{
+	background:#a82828;
+}
+#officialRed .top-logo{
+	background-position:-182px 0;
+}
+#officialRed .top-nav ul li:hover{
+	background:#a82828;
+}
+#officialRed .top-nav ul li a:hover{
+	background:#a82828;
+}
+#officialRed .top-nav ul li.active{
+	background:#a82828;
+}
+#officialRed .top-nav ul li.active a{
+	background:#a82828;
+}
+#officialRed .top-nav ul li a span{
+	color:#c62f2f;
+}
+#officialRed .top-search input{
+	background-color:#a82828;
+}
+#officialRed .top-search ::-webkit-input-placeholder { 
+    color:#cd7474;  
+}
+#officialRed .top-login span i{		
+	background-position:-26px 3px;
+	background-color:#fff;
+}
+#officialRed .top-skin span i{	
+	background-position:-27px -30px;
+	background-color:#fff;
+}
+#officialRed .top-mail span i{		
+	background-position:-27px -63px;
+	background-color:#fff;
+}
+#officialRed .top-setting span i{		
+	background-position:-27px -96px;
+	background-color:#fff;
+}
+#officialRed .top-login ul{
+    border-radius:3px;
+    border:1px solid #9b1a1a;
+    background:#a82828;
+}
+#officialRed .top-login ul:after{
+	background-position:-66px -150px;
+}
+#officialRed .top-login ul li a:hover{
+	background-color:#9b1a1a;
+}
+#officialRed #leftArea dl dd.active{
+	border-left:2px #c62f2f solid;
+}
+#officialRed #loginArea span{
+	background:#c62f2f;
+	border-bottom:1px solid #c62f2f;
+}
+#officialRed #loginArea ul.login-main li .btn{
+	background-position:0 -246px;
+}
+#officialRed #loginArea ul.login-main li .btn:hover{
+	background-position:0 -328px;
+}
+#officialRed #loginArea ul.login-main li .btn:active{
+	background-position:0 -410px;
+}
+#officialRed #footerArea{
+	background:url(../images/player_skin.png) 0 0 repeat-x;
+}
+#officialRed .botlock{
+	background:url(../images/player_skin.png) 0 -66px no-repeat;
+}
+#officialRed .player .play .p-bar .barbg{
+	background:#af0404;
+}
+#officialRed .player .play .p-bar .barbg .ready{
+	background:#f87373;
+}
+#officialRed .player .play .p-bar .barbg .current{
+	background:#fff;	
+}
+#officialRed .player .ctrl a.list{background:url(../images/player_skin.png) -85px -136px no-repeat;}
+#officialRed .player .ctrl .volbar{
+	width:30px;
+	height:112px;
+	border:1px #a82828 solid;
+	border-bottom:0;
+	background:#c62f2f;
+}
+#officialRed .player .ctrl .volbar .volbg{
+	background:#fff;
+	border-radius:5px;
+}
+#officialRed .player .ctrl .volbar .volcur{
+	background:#e9af12;
+	border-radius:5px;	
+}
+#officialRed .player .ctrl .modetips{
+	width:73px;
+	height:28px;
+	margin:5px 3px;
+	border:1px #a82828 solid;
+	border-bottom:0;
+	background:#c62f2f;
+	border-radius:6px;
+	line-height:28px;
+}
+
+
+
+
+
+
+
+
+
+
+/*可爱粉*/
+#lovelyPink .topbar{
+	background:#fa7aa7;
+}
+#lovelyPink .subnav{
+	background:#f8a1bc;
+}
+#lovelyPink .top-logo{
+	background-position:-364px 0;
+}
+#lovelyPink .top-nav ul li:hover{
+	background:#f8a1bc;
+}
+#lovelyPink .top-nav ul li a:hover{
+	background:#f8a1bc;
+}
+#lovelyPink .top-nav ul li.active{
+	background:#f8a1bc;
+}
+#lovelyPink .top-nav ul li.active a{
+	background:#f8a1bc;
+}
+#lovelyPink .top-nav ul li a span{
+	color:#fa7aa7;
+}
+#lovelyPink .top-search input{
+	background-color:#e55583;
+}
+#lovelyPink .top-search ::-webkit-input-placeholder { 
+    color:#ee8fae;  
+}
+#lovelyPink .top-login span i{		
+	background-position:-56px 3px;
+	background-color:#fff;
+}
+#lovelyPink .top-skin span i{	
+	background-position:-57px -30px;
+	background-color:#fff;
+}
+#lovelyPink .top-mail span i{		
+	background-position:-57px -63px;
+	background-color:#fff;
+}
+#lovelyPink .top-setting span i{		
+	background-position:-57px -96px;
+	background-color:#fff;
+}
+#lovelyPink .top-login ul{
+    border-radius:3px;
+    border:1px solid #e63c72;
+    background:#e55583;
+}
+#lovelyPink .top-login ul:after{
+	background-position:-66px -167px;
+}
+#lovelyPink .top-login ul li a:hover{
+	background-color:#e63c72;
+}
+#lovelyPink #leftArea dl dd.active{
+	border-left:2px #fa7aa7 solid;
+}
+#lovelyPink #loginArea span{
+	background:#e55583;
+	border-bottom:1px solid #e3356c;
+}
+#lovelyPink #loginArea ul.login-main li .btn{
+	background-position:0 -492px;
+}
+#lovelyPink #loginArea ul.login-main li .btn:hover{
+	background-position:0 -574px;
+}
+#lovelyPink #loginArea ul.login-main li .btn:active{
+	background-position:0 -656px;
+}
+#lovelyPink #footerArea{
+	background:url(../images/player_skin.png) 0 -217px repeat-x;
+}
+#lovelyPink .botlock{
+	background:url(../images/player_skin.png) 0 -283px no-repeat;
+}
+#lovelyPink .player .play .p-bar .barbg{
+	background:#d5024c;
+}
+#lovelyPink .player .play .p-bar .barbg .ready{
+	background:#fc7ba8;
+}
+#lovelyPink .player .play .p-bar .barbg .current{
+	background:#fff;
+}
+#lovelyPink .player .ctrl a.list{background:url(../images/player_skin.png) -85px -286px no-repeat;}
+#lovelyPink .player .ctrl .volbar{
+	width:30px;
+	height:112px;
+	border:1px #e3356c solid;
+	border-bottom:0;
+	background:#e55583;
+}
+#lovelyPink .player .ctrl .volbar .volbg{
+	background:#fff;
+	border-radius:5px;
+}
+#lovelyPink .player .ctrl .volbar .volcur{
+	background:#d5024c;
+	border-radius:5px;	
+}
+#lovelyPink .player .ctrl .modetips{
+	width:73px;
+	height:28px;
+	margin:5px 3px;
+	border:1px #e3356c solid;
+	border-bottom:0;
+	background:#e55583;
+	border-radius:6px;
+	line-height:28px;
+}
+
+
+
+
+
+
+
+
